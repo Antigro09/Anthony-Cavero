@@ -148,12 +148,6 @@ Experience includes control systems, embedded logic, systems debugging, and work
 
 ---
 
-## Career Direction
-
-Over the next decade, I plan to develop into a leading AI researcher focused on advancing model architecture, efficiency, and real-world deployment. My objective is to bridge rigorous theory with scalable engineering.
-
----
-
 ## Contact
 
 Email: anthonyj.cavero@gmail.com  
@@ -162,6 +156,6 @@ Portfolio: [link]
 
 ---
 
-> Build
-> Understand
-> Improve
+> Build.
+> Understand.
+> Improve.
