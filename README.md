@@ -97,7 +97,7 @@ Repo: [link]
 ## Education
 
 **Advanced Diploma Candidate**  
-Deep Run High School — Virginia  
+Deep Run High School - Virginia  
 Expected Graduation: 2027  
 
 Center for Information Technology (CIT) Program  
@@ -150,9 +150,11 @@ Experience includes control systems, embedded logic, systems debugging, and work
 
 ## Contact
 
-Email: anthonyj.cavero@gmail.com  
-LinkedIn: https://www.linkedin.com/in/anthony-cavero/  
-Portfolio: [link]
+[![Static Badge](https://img.shields.io/badge/Gmail-anthonyj.cavero%40gmail.com-red?logo=gmail&logoColor=white)](mailto:anthonyj.cavero@gmail.com)
+
+[![Static Badge](https://img.shields.io/badge/LinkedIn-Anthony_Cavero-blue)](https://www.linkedin.com/in/anthony-cavero/)
+
+[![Static Badge](https://img.shields.io/badge/Portfolio-Click_Here-orange)](link)
 
 ---
 
